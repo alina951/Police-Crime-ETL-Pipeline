@@ -248,6 +248,8 @@ Created collection
 crimes
 ```
 
+
+
 ---
 
 # Step 8 - Load Data into MongoDB
@@ -283,6 +285,7 @@ Result
 ```
 9153
 ```
+<img width="2240" height="1704" alt="Screenshot 2026-07-13 234349" src="https://github.com/user-attachments/assets/4ba2457c-846c-4193-9e8e-fe74393fb3c1" />
 
 ---
 
@@ -343,7 +346,7 @@ police_crimes.json
 Verified upload successfully inside AWS Console.
 
 ---
-
+<img width="2877" height="1479" alt="Screenshot 2026-07-13 235145" src="https://github.com/user-attachments/assets/aff2d814-e444-4a0d-b1f4-65ce12fe83c7" />
 # Final Output
 
 The complete ETL pipeline works successfully.
