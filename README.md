@@ -28,6 +28,8 @@ Export to JSON
        ▼
 Upload to Amazon S3
 ```
+<img width="2880" height="1704" alt="Screenshot 2026-07-13 233946" src="https://github.com/user-attachments/assets/a7f9bb9b-38a7-41e7-804b-eda486ddce74" />
+# Running the ETL Pipeline
 
 ---
 
